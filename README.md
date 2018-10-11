@@ -1,2 +1,2 @@
 # Self-Organizing-Map---Fraud-Detection-Application
-The dataset contains information from a bank of customers applying for an advanced credit card. Based on this information, we have to predict potential frauds using a Self Organizing Map. The folder contains the code for the same.
+The dataset contains information from a bank of customers applying for an advanced credit card. Based on this information, we have to predict potential frauds using a Self Organizing Map. The folder contains the code for the same. I also used the Minimalistic Implemententation of SOM (MiniSom 1.0) by author Giuseppe Vettigli as python package for the SOM implementation. The licence is Creative Commons 3.0 for the same. 
